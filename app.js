@@ -5,4 +5,4 @@ function getRandomChoice() {
   }
   
   const computerChoice = getRandomChoice();
-  console.log(`Кто получит пизды: ${computerChoice}`);
+  console.log(`Кто получит пизды завтра утром: ${computerChoice}`);
